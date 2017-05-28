@@ -2114,6 +2114,7 @@ ul.faq li > div h3 {
   border-radius: 0;
   overflow: hidden;
   margin-bottom: 50px;
+
 }
 
 .blog .blog-item .img-blog {
@@ -2201,15 +2202,6 @@ ul.pagination > li:hover > a {
   color: #fff;
 }
 
-.search_box {
-  background-image: url("../images/search_icon.png");
-  background-position: 314px 15px;
-  background-repeat: no-repeat;
-  border-color: #DEDEDE;
-  height: 48px;
-  outline: medium none;
-  box-shadow: none;
-}
 
 .form-control:focus {
   box-shadow:none;
